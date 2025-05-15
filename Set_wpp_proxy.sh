@@ -1,4 +1,5 @@
 #!/bin/bash
+# script by Giovanne Henrique =)
 
 # Caminho da imagem a ser usada como wallpaper
 # Path of images 
